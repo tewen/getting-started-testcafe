@@ -1,0 +1,12 @@
+{
+  "name": "getting-started-testcafe",
+  "version": "0.0.1",
+  "description": "A quick example to get started with TestCafe and automated testing",
+  "scripts": {
+    "test": "testcafe chrome egghead.io.scenario.js"
+  },
+  "author": "Trevor Ewen",
+  "dependencies": {
+    "testcafe": "^0.18.6"
+  }
+}
